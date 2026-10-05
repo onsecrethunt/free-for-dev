@@ -1725,5 +1725,6 @@ Update Time, five active automations, webhooks.
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
   * [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
+  * [Strip AI Metadata](https://www.stripaimetadata.com/) - Free online tool to remove metadata from photos and images, including AI-related metadata.
 
 **[⬆️ Back to Top](#table-of-contents)**
